@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc981110-8e26-4a39-bc6b-08afbcd8038b" name="Default Changelist" comment="" />
+    <list default="true" id="cc981110-8e26-4a39-bc6b-08afbcd8038b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/settings.py" afterDir="false" />
+    </list>
     <ignored path="venv/" />
     <ignored path="db.sqlite3" />
     <ignored path=".idea/" />
@@ -120,7 +122,7 @@
         <counts>
           <entry key="gitignore" value="28" />
           <entry key="html" value="1097" />
-          <entry key="py" value="1157" />
+          <entry key="py" value="1158" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
@@ -128,7 +130,7 @@
         <counts>
           <entry key="HTML" value="1097" />
           <entry key="PLAIN_TEXT" value="39" />
-          <entry key="Python" value="1157" />
+          <entry key="Python" value="1158" />
         </counts>
       </usages-collector>
     </session>
@@ -206,8 +208,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-end-line="28" />
+            <state relative-caret-position="1097">
+              <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
             </state>
           </provider>
         </entry>
@@ -574,8 +576,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-end-line="28" />
+        <state relative-caret-position="1097">
+          <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
         </state>
       </provider>
     </entry>
