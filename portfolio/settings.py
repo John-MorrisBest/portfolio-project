@@ -130,7 +130,5 @@ MEDIA_URL = '/media/'
 
 try:
 	from .local_settings import *
-	print('NoErrorNoErrorNoErrorNoErrorNoErrorNoErrorNoErrorNoErrorNoErrorNoErrorNoErrorNoErrorNoError')
 except ImportError:
-	print('ImportErrorImportErrorImportErrorImportErrorImportErrorImportError')
 	pass
